@@ -38,7 +38,7 @@ void precal(){
 
 void solve() {
 	
-	int n;
+	ll n;
 	cin>>n;
 	
 	while(n!=1){
