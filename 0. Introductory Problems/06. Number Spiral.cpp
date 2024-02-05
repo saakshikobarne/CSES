@@ -6,4 +6,8 @@ A number spiral is an infinite grid whose upper-left square has number 1. Here a
 5   6   7   12  23
 16  15  14  13  22
 17  18  19  20  21
+
+Your task is to find out the number in row y and column x.
 */
+
+
